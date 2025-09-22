@@ -4,6 +4,8 @@ import tkinter as tk
 from tkinter import messagebox
 import sqlite3
 
+#=======================CLASS PLAYER DATABASE========================#
+
 """
 class PlayerDatabase:
     def __init__(self, db_name = "players.db"):
